@@ -1,7 +1,7 @@
 
 if command -v git 
 then                          
-    echo "Git is already installed."
+    echo "Git is already, installed."
 else                                
     echo "Git not found installing "
     sudo apt update
